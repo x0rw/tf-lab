@@ -14,7 +14,7 @@ provider "azurerm" {
 
 
 data "azurerm_resource_group" "av-lab-rg" {
-  name = "HT-IENO-LAB-006-elaraby-jalaleddine"
+  name = "HT-IENO-LAB-XXX"
 }
 
 resource "azurerm_storage_account" "lab" {
